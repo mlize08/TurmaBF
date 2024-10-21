@@ -2,6 +2,8 @@ body {
     color: white;
     background-color: black;
 }
+
+
 section {
     background: rgb(67, 38, 185);
     padding-bottom: 80px;
@@ -9,4 +11,9 @@ section {
     display: flex;
     justify-content: center;
 }
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
     
